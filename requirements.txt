@@ -3,4 +3,7 @@ numpy
 tensorflow
 pillow
 sentence-transformers
+torch
+torchvision
+transformers
 speechrecognition

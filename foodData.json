@@ -1,0 +1,2653 @@
+[{
+  "_id": {
+    "$oid": "68ff47bdc92910dc4350eb68"
+  },
+  "foodname": "red_velvet_cake",
+  "calories_per_piece": 368,
+  "nutrients": {
+    "sugar": "16.59 g",
+    "total_fat": "23 g",
+    "cholesterol": "93 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease",
+    "Lactose Intolerance"
+  ],
+  "alternative": "beetroot red velvet mug cake",
+  "image_prediction_label": "red_velvet_cake",
+  "category": "dessert",
+  "description": "A rich, buttery cake with cocoa flavor and cream cheese frosting, high in sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb7a"
+  },
+  "foodname": "fried_rice",
+  "calories_per_piece": 250,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "12 g",
+    "cholesterol": "45 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "brown rice with vegetables",
+  "image_prediction_label": "fried_rice",
+  "category": "main course",
+  "description": "A flavorful rice dish stir-fried with vegetables, eggs, and soy sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb7b"
+  },
+  "foodname": "frozen_yogurt",
+  "calories_per_piece": 160,
+  "nutrients": {
+    "sugar": "17 g",
+    "total_fat": "4 g",
+    "cholesterol": "8 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance"
+  ],
+  "alternative": "dairy-free frozen yogurt",
+  "image_prediction_label": "frozen_yogurt",
+  "category": "dessert",
+  "description": "A chilled dessert made from yogurt, offering a tangy and sweet taste."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb7c"
+  },
+  "foodname": "garlic_bread",
+  "calories_per_piece": 180,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "10 g",
+    "cholesterol": "20 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "whole wheat garlic toast",
+  "image_prediction_label": "garlic_bread",
+  "category": "snack",
+  "description": "Crispy bread slices topped with garlic butter and herbs."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb7d"
+  },
+  "foodname": "gnocchi",
+  "calories_per_piece": 280,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "8 g",
+    "cholesterol": "35 mg"
+  },
+  "bad_for": [
+    "Gluten Sensitivity"
+  ],
+  "alternative": "gluten-free potato gnocchi",
+  "image_prediction_label": "gnocchi",
+  "category": "main course",
+  "description": "Soft dough dumplings made from potatoes and flour, often served with sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb7e"
+  },
+  "foodname": "greek_salad",
+  "calories_per_piece": 120,
+  "nutrients": {
+    "sugar": "4 g",
+    "total_fat": "8 g",
+    "cholesterol": "12 mg"
+  },
+  "bad_for": [],
+  "alternative": "low-fat feta greek salad",
+  "image_prediction_label": "greek_salad",
+  "category": "salad",
+  "description": "A fresh salad with cucumber, tomato, feta cheese, and olives dressed in olive oil."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb7f"
+  },
+  "foodname": "grilled_cheese_sandwich",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "20 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "Lactose Intolerance"
+  ],
+  "alternative": "low-fat cheese sandwich",
+  "image_prediction_label": "grilled_cheese_sandwich",
+  "category": "snack",
+  "description": "Toasted sandwich filled with melted cheese, buttery and crispy."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb80"
+  },
+  "foodname": "grilled_salmon",
+  "calories_per_piece": 230,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "13 g",
+    "cholesterol": "50 mg"
+  },
+  "bad_for": [],
+  "alternative": "grilled trout",
+  "image_prediction_label": "grilled_salmon",
+  "category": "main course",
+  "description": "A protein-rich dish of salmon fillet grilled with herbs and lemon."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb81"
+  },
+  "foodname": "guacamole",
+  "calories_per_piece": 150,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "13 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "low-fat avocado dip",
+  "image_prediction_label": "guacamole",
+  "category": "dip",
+  "description": "A creamy avocado-based dip mixed with lime juice, onions, and cilantro."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb82"
+  },
+  "foodname": "gyoza",
+  "calories_per_piece": 190,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "8 g",
+    "cholesterol": "35 mg"
+  },
+  "bad_for": [
+    "Gluten Sensitivity"
+  ],
+  "alternative": "steamed rice paper dumplings",
+  "image_prediction_label": "gyoza",
+  "category": "snack",
+  "description": "Japanese-style dumplings filled with meat and vegetables, pan-fried or steamed."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb83"
+  },
+  "foodname": "hamburger",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "sugar": "5 g",
+    "total_fat": "19 g",
+    "cholesterol": "60 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled veggie burger",
+  "image_prediction_label": "hamburger",
+  "category": "fast food",
+  "description": "A sandwich with a cooked patty between buns, often topped with cheese and sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb84"
+  },
+  "foodname": "hot_and_sour_soup",
+  "calories_per_piece": 90,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "3 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [],
+  "alternative": "low-sodium hot and sour soup",
+  "image_prediction_label": "hot_and_sour_soup",
+  "category": "soup",
+  "description": "A tangy and spicy Asian soup made from mushrooms, tofu, and soy sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb85"
+  },
+  "foodname": "hot_dog",
+  "calories_per_piece": 290,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "17 g",
+    "cholesterol": "40 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Blood Pressure"
+  ],
+  "alternative": "chicken sausage hot dog",
+  "image_prediction_label": "hot_dog",
+  "category": "fast food",
+  "description": "A grilled sausage served in a bun with mustard or ketchup."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb86"
+  },
+  "foodname": "huevos_rancheros",
+  "calories_per_piece": 210,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "11 g",
+    "cholesterol": "180 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "egg white huevos rancheros",
+  "image_prediction_label": "huevos_rancheros",
+  "category": "breakfast",
+  "description": "A traditional Mexican breakfast of fried eggs on tortillas with salsa."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb87"
+  },
+  "foodname": "hummus",
+  "calories_per_piece": 160,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "9 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [],
+  "alternative": "low-oil hummus",
+  "image_prediction_label": "hummus",
+  "category": "dip",
+  "description": "A creamy dip made from chickpeas, tahini, lemon, and garlic."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb88"
+  },
+  "foodname": "ice_cream",
+  "calories_per_piece": 207,
+  "nutrients": {
+    "sugar": "21 g",
+    "total_fat": "11 g",
+    "cholesterol": "44 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "frozen banana ice cream",
+  "image_prediction_label": "ice_cream",
+  "category": "dessert",
+  "description": "A sweet frozen dairy dessert available in many flavors."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb89"
+  },
+  "foodname": "lasagna",
+  "calories_per_piece": 340,
+  "nutrients": {
+    "sugar": "6 g",
+    "total_fat": "18 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "Lactose Intolerance"
+  ],
+  "alternative": "vegetable lasagna with low-fat cheese",
+  "image_prediction_label": "lasagna",
+  "category": "main course",
+  "description": "A layered Italian pasta dish baked with sauce, cheese, and meat or vegetables."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb8a"
+  },
+  "foodname": "lobster_bisque",
+  "calories_per_piece": 250,
+  "nutrients": {
+    "sugar": "4 g",
+    "total_fat": "18 g",
+    "cholesterol": "75 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "light seafood bisque",
+  "image_prediction_label": "lobster_bisque",
+  "category": "soup",
+  "description": "A creamy French soup made with lobster and aromatic seasonings."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb8b"
+  },
+  "foodname": "macaroni_and_cheese",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "17 g",
+    "cholesterol": "40 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "Lactose Intolerance"
+  ],
+  "alternative": "whole wheat mac and cheese",
+  "image_prediction_label": "macaroni_and_cheese",
+  "category": "main course",
+  "description": "A comfort dish made from cooked pasta and melted cheese sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb8c"
+  },
+  "foodname": "macarons",
+  "calories_per_piece": 100,
+  "nutrients": {
+    "sugar": "17 g",
+    "total_fat": "4 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [
+    "Diabetic Person"
+  ],
+  "alternative": "sugar-free almond macarons",
+  "image_prediction_label": "macarons",
+  "category": "dessert",
+  "description": "French meringue-based cookies with almond flour and flavored fillings."
+},
+{
+  "_id": {
+    "$oid": "68ff49cec92910dc4350eb8d"
+  },
+  "foodname": "miso_soup",
+  "calories_per_piece": 60,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "2 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [
+    "High Blood Pressure"
+  ],
+  "alternative": "low-sodium miso soup",
+  "image_prediction_label": "miso_soup",
+  "category": "soup",
+  "description": "A traditional Japanese soup made with miso paste, tofu, and seaweed."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb8e"
+  },
+  "foodname": "mussels",
+  "calories_per_piece": 172,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "4 g",
+    "cholesterol": "48 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled tofu with garlic sauce",
+  "image_prediction_label": "mussels",
+  "category": "seafood",
+  "description": "Steamed or cooked mussels served with garlic butter or tomato sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb8f"
+  },
+  "foodname": "nachos",
+  "calories_per_piece": 290,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "18 g",
+    "cholesterol": "25 mg"
+  },
+  "bad_for": [
+    "High Blood Pressure",
+    "Heart Disease"
+  ],
+  "alternative": "baked multigrain nachos",
+  "image_prediction_label": "nachos",
+  "category": "snack",
+  "description": "Crispy tortilla chips topped with melted cheese, beans, and jalapeños."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb90"
+  },
+  "foodname": "omelette",
+  "calories_per_piece": 155,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "11 g",
+    "cholesterol": "372 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "egg white omelette",
+  "image_prediction_label": "omelette",
+  "category": "breakfast",
+  "description": "A fluffy dish made from beaten eggs cooked with vegetables or cheese."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb91"
+  },
+  "foodname": "onion_rings",
+  "calories_per_piece": 276,
+  "nutrients": {
+    "sugar": "5 g",
+    "total_fat": "16 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [
+    "High Cholesterol",
+    "Heart Disease"
+  ],
+  "alternative": "air-fried onion rings",
+  "image_prediction_label": "onion_rings",
+  "category": "snack",
+  "description": "Crispy deep-fried onion slices coated in seasoned batter."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb92"
+  },
+  "foodname": "oysters",
+  "calories_per_piece": 199,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "7 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled mushrooms with garlic butter",
+  "image_prediction_label": "oysters",
+  "category": "seafood",
+  "description": "Shellfish served raw or cooked, rich in minerals and protein."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb93"
+  },
+  "foodname": "pad_thai",
+  "calories_per_piece": 300,
+  "nutrients": {
+    "sugar": "9 g",
+    "total_fat": "13 g",
+    "cholesterol": "72 mg"
+  },
+  "bad_for": [
+    "Diabetic Person"
+  ],
+  "alternative": "low-sugar pad thai with tofu",
+  "image_prediction_label": "pad_thai",
+  "category": "main course",
+  "description": "A Thai noodle stir-fry made with rice noodles, eggs, tofu, and tamarind sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb94"
+  },
+  "foodname": "paella",
+  "calories_per_piece": 340,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "11 g",
+    "cholesterol": "35 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "vegetable paella",
+  "image_prediction_label": "paella",
+  "category": "main course",
+  "description": "A Spanish rice dish cooked with saffron, seafood, and vegetables."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb95"
+  },
+  "foodname": "pancakes",
+  "calories_per_piece": 227,
+  "nutrients": {
+    "sugar": "9 g",
+    "total_fat": "7 g",
+    "cholesterol": "45 mg"
+  },
+  "bad_for": [
+    "Diabetic Person"
+  ],
+  "alternative": "oatmeal banana pancakes",
+  "image_prediction_label": "pancakes",
+  "category": "breakfast",
+  "description": "Fluffy cakes made from batter, often served with syrup or fruits."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb96"
+  },
+  "foodname": "panna_cotta",
+  "calories_per_piece": 230,
+  "nutrients": {
+    "sugar": "19 g",
+    "total_fat": "13 g",
+    "cholesterol": "42 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance",
+    "Diabetic Person"
+  ],
+  "alternative": "coconut milk panna cotta",
+  "image_prediction_label": "panna_cotta",
+  "category": "dessert",
+  "description": "An Italian creamy dessert made from sweetened cream and gelatin."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb97"
+  },
+  "foodname": "peking_duck",
+  "calories_per_piece": 330,
+  "nutrients": {
+    "sugar": "5 g",
+    "total_fat": "22 g",
+    "cholesterol": "75 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "grilled chicken with plum sauce",
+  "image_prediction_label": "peking_duck",
+  "category": "main course",
+  "description": "A Chinese dish of roasted duck with crispy skin and sweet-savory sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb98"
+  },
+  "foodname": "pho",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "10 g",
+    "cholesterol": "35 mg"
+  },
+  "bad_for": [],
+  "alternative": "low-sodium pho with rice noodles",
+  "image_prediction_label": "pho",
+  "category": "soup",
+  "description": "Vietnamese noodle soup with broth, herbs, and meat or tofu."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb99"
+  },
+  "foodname": "pizza",
+  "calories_per_piece": 285,
+  "nutrients": {
+    "sugar": "3.8 g",
+    "total_fat": "10.4 g",
+    "cholesterol": "18 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "whole wheat vegetable pizza",
+  "image_prediction_label": "pizza",
+  "category": "fast food",
+  "description": "An Italian dish consisting of a dough base topped with sauce, cheese, and toppings."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb9a"
+  },
+  "foodname": "pork_chop",
+  "calories_per_piece": 250,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "14 g",
+    "cholesterol": "70 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "grilled chicken breast",
+  "image_prediction_label": "pork_chop",
+  "category": "main course",
+  "description": "A juicy grilled or fried cut of pork seasoned with spices."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb9b"
+  },
+  "foodname": "poutine",
+  "calories_per_piece": 740,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "42 g",
+    "cholesterol": "85 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Blood Pressure"
+  ],
+  "alternative": "baked sweet potato poutine",
+  "image_prediction_label": "poutine",
+  "category": "fast food",
+  "description": "A Canadian dish of fries topped with cheese curds and gravy."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb9c"
+  },
+  "foodname": "prime_rib",
+  "calories_per_piece": 400,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "30 g",
+    "cholesterol": "80 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled lean beef",
+  "image_prediction_label": "prime_rib",
+  "category": "main course",
+  "description": "A flavorful roasted beef cut known for its tenderness and rich taste."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb9d"
+  },
+  "foodname": "pulled_pork_sandwich",
+  "calories_per_piece": 430,
+  "nutrients": {
+    "sugar": "14 g",
+    "total_fat": "18 g",
+    "cholesterol": "85 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "shredded chicken sandwich",
+  "image_prediction_label": "pulled_pork_sandwich",
+  "category": "fast food",
+  "description": "A sandwich made with slow-cooked shredded pork and tangy barbecue sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb9e"
+  },
+  "foodname": "ramen",
+  "calories_per_piece": 380,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "14 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "High Blood Pressure"
+  ],
+  "alternative": "low-sodium ramen with vegetables",
+  "image_prediction_label": "ramen",
+  "category": "soup",
+  "description": "A Japanese noodle soup dish with broth, noodles, and toppings."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eb9f"
+  },
+  "foodname": "ravioli",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "sugar": "4 g",
+    "total_fat": "12 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance",
+    "Heart Disease"
+  ],
+  "alternative": "spinach ravioli with tomato sauce",
+  "image_prediction_label": "ravioli",
+  "category": "main course",
+  "description": "Italian pasta pockets filled with cheese, vegetables, or meat."
+},
+{
+  "_id": {
+    "$oid": "68ff4a56c92910dc4350eba0"
+  },
+  "foodname": "risotto",
+  "calories_per_piece": 290,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "10 g",
+    "cholesterol": "30 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance"
+  ],
+  "alternative": "mushroom risotto with almond milk",
+  "image_prediction_label": "risotto",
+  "category": "main course",
+  "description": "An Italian rice dish cooked slowly with broth and cheese until creamy."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebb5"
+  },
+  "foodname": "samosa",
+  "calories_per_piece": 262,
+  "nutrients": {
+    "sugar": "1.2 g",
+    "total_fat": "17 g",
+    "cholesterol": "27 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Blood Pressure"
+  ],
+  "alternative": "baked samosa with less oil",
+  "image_prediction_label": "samosa",
+  "category": "snack",
+  "description": "A crispy fried pastry filled with spiced potatoes and peas, popular in South Asia."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebb6"
+  },
+  "foodname": "sashimi",
+  "calories_per_piece": 120,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "3 g",
+    "cholesterol": "45 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "tofu sashimi",
+  "image_prediction_label": "sashimi",
+  "category": "seafood",
+  "description": "Thinly sliced raw fish or seafood served with soy sauce and wasabi."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebb7"
+  },
+  "foodname": "scallops",
+  "calories_per_piece": 111,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "1 g",
+    "cholesterol": "41 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "grilled mushrooms",
+  "image_prediction_label": "scallops",
+  "category": "seafood",
+  "description": "Tender shellfish pan-seared or grilled, known for a delicate, sweet flavor."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebb8"
+  },
+  "foodname": "seaweed_salad",
+  "calories_per_piece": 70,
+  "nutrients": {
+    "sugar": "5 g",
+    "total_fat": "3 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [
+    "Thyroid Disorders"
+  ],
+  "alternative": "cucumber sesame salad",
+  "image_prediction_label": "seaweed_salad",
+  "category": "salad",
+  "description": "A Japanese salad made from marinated seaweed, sesame oil, and vinegar."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebb9"
+  },
+  "foodname": "shrimp_and_grits",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "16 g",
+    "cholesterol": "180 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy",
+    "Heart Disease"
+  ],
+  "alternative": "vegetable grits with tofu",
+  "image_prediction_label": "shrimp_and_grits",
+  "category": "main course",
+  "description": "Southern-style dish of shrimp served over creamy corn grits."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebba"
+  },
+  "foodname": "spaghetti_bolognese",
+  "calories_per_piece": 380,
+  "nutrients": {
+    "sugar": "8 g",
+    "total_fat": "14 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "whole wheat spaghetti with lentil sauce",
+  "image_prediction_label": "spaghetti_bolognese",
+  "category": "main course",
+  "description": "Italian pasta topped with a rich tomato and meat sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebbb"
+  },
+  "foodname": "spaghetti_carbonara",
+  "calories_per_piece": 410,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "20 g",
+    "cholesterol": "80 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "Lactose Intolerance"
+  ],
+  "alternative": "low-fat creamy pasta with tofu sauce",
+  "image_prediction_label": "spaghetti_carbonara",
+  "category": "main course",
+  "description": "A Roman pasta dish made with eggs, cheese, pancetta, and pepper."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebbc"
+  },
+  "foodname": "spring_rolls",
+  "calories_per_piece": 150,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "7 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "rice paper veggie rolls",
+  "image_prediction_label": "spring_rolls",
+  "category": "snack",
+  "description": "Crispy fried rolls filled with vegetables, sometimes served with sweet chili sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebbd"
+  },
+  "foodname": "steak",
+  "calories_per_piece": 271,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "19 g",
+    "cholesterol": "70 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "grilled tofu steak",
+  "image_prediction_label": "steak",
+  "category": "main course",
+  "description": "Juicy grilled beef cut seasoned with salt and pepper."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebbe"
+  },
+  "foodname": "strawberry_shortcake",
+  "calories_per_piece": 250,
+  "nutrients": {
+    "sugar": "25 g",
+    "total_fat": "9 g",
+    "cholesterol": "40 mg"
+  },
+  "bad_for": [
+    "Diabetic Person"
+  ],
+  "alternative": "oat strawberry yogurt parfait",
+  "image_prediction_label": "strawberry_shortcake",
+  "category": "dessert",
+  "description": "A light cake layered with strawberries and whipped cream."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebbf"
+  },
+  "foodname": "sushi",
+  "calories_per_piece": 200,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "5 g",
+    "cholesterol": "30 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "avocado cucumber sushi roll",
+  "image_prediction_label": "sushi",
+  "category": "seafood",
+  "description": "A Japanese dish of vinegared rice rolled with fish or vegetables."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc0"
+  },
+  "foodname": "tacos",
+  "calories_per_piece": 226,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "13 g",
+    "cholesterol": "32 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "grilled chicken tacos with corn tortilla",
+  "image_prediction_label": "tacos",
+  "category": "main course",
+  "description": "A Mexican dish with folded tortillas filled with meat and vegetables."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc1"
+  },
+  "foodname": "takoyaki",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "22 g",
+    "cholesterol": "60 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "vegetable takoyaki balls",
+  "image_prediction_label": "takoyaki",
+  "category": "snack",
+  "description": "Japanese snack of batter balls filled with diced octopus and topped with sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc2"
+  },
+  "foodname": "tiramisu",
+  "calories_per_piece": 340,
+  "nutrients": {
+    "sugar": "27 g",
+    "total_fat": "18 g",
+    "cholesterol": "140 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "yogurt tiramisu with honey",
+  "image_prediction_label": "tiramisu",
+  "category": "dessert",
+  "description": "An Italian dessert of coffee-soaked layers with mascarpone cream."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc3"
+  },
+  "foodname": "tuna_tartare",
+  "calories_per_piece": 190,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "10 g",
+    "cholesterol": "35 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "avocado tartare",
+  "image_prediction_label": "tuna_tartare",
+  "category": "seafood",
+  "description": "A raw tuna dish seasoned with soy sauce, lime, and avocado."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc4"
+  },
+  "foodname": "waffles",
+  "calories_per_piece": 310,
+  "nutrients": {
+    "sugar": "16 g",
+    "total_fat": "14 g",
+    "cholesterol": "50 mg"
+  },
+  "bad_for": [
+    "Diabetic Person"
+  ],
+  "alternative": "oatmeal banana waffles",
+  "image_prediction_label": "waffles",
+  "category": "breakfast",
+  "description": "Golden crisp batter-cooked breakfast topped with syrup or fruits."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc5"
+  },
+  "foodname": "clam_chowder",
+  "calories_per_piece": 240,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "14 g",
+    "cholesterol": "40 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy",
+    "High Cholesterol"
+  ],
+  "alternative": "corn and potato chowder",
+  "image_prediction_label": "clam_chowder",
+  "category": "soup",
+  "description": "A creamy soup made with clams, potatoes, and onions."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc6"
+  },
+  "foodname": "chocolate_cake",
+  "calories_per_piece": 370,
+  "nutrients": {
+    "sugar": "25 g",
+    "total_fat": "20 g",
+    "cholesterol": "65 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "dark chocolate oats cake",
+  "image_prediction_label": "chocolate_cake",
+  "category": "dessert",
+  "description": "Moist cake flavored with cocoa and layered with chocolate frosting."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc7"
+  },
+  "foodname": "cheesecake",
+  "calories_per_piece": 430,
+  "nutrients": {
+    "sugar": "28 g",
+    "total_fat": "28 g",
+    "cholesterol": "90 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance",
+    "Heart Disease"
+  ],
+  "alternative": "yogurt cheesecake with fruit topping",
+  "image_prediction_label": "cheesecake",
+  "category": "dessert",
+  "description": "A rich dessert with a creamy cheese filling over a biscuit crust."
+},
+{
+  "_id": {
+    "$oid": "68ff4ae4c92910dc4350ebc8"
+  },
+  "foodname": "churros",
+  "calories_per_piece": 240,
+  "nutrients": {
+    "sugar": "14 g",
+    "total_fat": "12 g",
+    "cholesterol": "25 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "baked churros with cinnamon",
+  "image_prediction_label": "churros",
+  "category": "dessert",
+  "description": "Fried dough pastry coated with sugar and often served with chocolate dip."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebc9"
+  },
+  "foodname": "lobster_roll_sandwich",
+  "calories_per_piece": 420,
+  "nutrients": {
+    "protein": "28 g",
+    "fat": "22 g",
+    "cholesterol": "95 mg"
+  },
+  "bad_for": [
+    "High Cholesterol",
+    "Seafood Allergy"
+  ],
+  "alternative": "shrimp lettuce wrap",
+  "image_prediction_label": "lobster_roll_sandwich",
+  "category": "main_course",
+  "description": "Butter-toasted roll filled with lobster meat and mayo; rich in protein but high in fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebca"
+  },
+  "foodname": "macaroni_and_cheese",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "carbohydrates": "40 g",
+    "fat": "18 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance",
+    "High Cholesterol"
+  ],
+  "alternative": "vegan mac and cheese",
+  "image_prediction_label": "macaroni_and_cheese",
+  "category": "main_course",
+  "description": "Classic pasta dish with creamy cheese sauce; comforting but high in calories."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebcb"
+  },
+  "foodname": "macarons",
+  "calories_per_piece": 90,
+  "nutrients": {
+    "sugar": "11 g",
+    "fat": "4 g",
+    "protein": "2 g"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Nut Allergy"
+  ],
+  "alternative": "almond-free coconut cookies",
+  "image_prediction_label": "macarons",
+  "category": "dessert",
+  "description": "Colorful French sandwich cookies made with almond flour; light yet sugary."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebcc"
+  },
+  "foodname": "miso_soup",
+  "calories_per_piece": 70,
+  "nutrients": {
+    "protein": "4 g",
+    "fat": "2 g",
+    "sodium": "700 mg"
+  },
+  "bad_for": [
+    "High Blood Pressure"
+  ],
+  "alternative": "low-sodium miso soup",
+  "image_prediction_label": "miso_soup",
+  "category": "soup",
+  "description": "Japanese soup made with miso paste and tofu; light and nutritious but high in sodium."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebcd"
+  },
+  "foodname": "mussels",
+  "calories_per_piece": 180,
+  "nutrients": {
+    "protein": "20 g",
+    "fat": "7 g",
+    "cholesterol": "50 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "grilled tofu skewers",
+  "image_prediction_label": "mussels",
+  "category": "seafood",
+  "description": "Steamed mussels in garlic butter sauce; rich in protein and minerals."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebce"
+  },
+  "foodname": "nachos",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "carbohydrates": "35 g",
+    "fat": "17 g",
+    "sodium": "400 mg"
+  },
+  "bad_for": [
+    "Obesity",
+    "High Blood Pressure"
+  ],
+  "alternative": "baked veggie nachos",
+  "image_prediction_label": "nachos",
+  "category": "snack",
+  "description": "Crispy tortilla chips topped with cheese and salsa; delicious but high in calories."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebcf"
+  },
+  "foodname": "omelette",
+  "calories_per_piece": 190,
+  "nutrients": {
+    "protein": "14 g",
+    "fat": "15 g",
+    "cholesterol": "180 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "egg white omelette",
+  "image_prediction_label": "omelette",
+  "category": "breakfast",
+  "description": "Fluffy beaten eggs cooked with veggies or cheese; high in protein but can raise cholesterol."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd0"
+  },
+  "foodname": "onion_rings",
+  "calories_per_piece": 270,
+  "nutrients": {
+    "carbohydrates": "30 g",
+    "fat": "15 g",
+    "sodium": "320 mg"
+  },
+  "bad_for": [
+    "Obesity",
+    "Heart Disease"
+  ],
+  "alternative": "baked onion rings",
+  "image_prediction_label": "onion_rings",
+  "category": "snack",
+  "description": "Crispy fried onion slices coated in batter; crunchy but high in oil."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd1"
+  },
+  "foodname": "oysters",
+  "calories_per_piece": 100,
+  "nutrients": {
+    "protein": "10 g",
+    "fat": "3 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Seafood Allergy",
+    "Pregnant Women"
+  ],
+  "alternative": "cooked oyster stew",
+  "image_prediction_label": "oysters",
+  "category": "seafood",
+  "description": "Raw or cooked shellfish; rich in zinc but may carry bacteria when raw."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd2"
+  },
+  "foodname": "pad_thai",
+  "calories_per_piece": 410,
+  "nutrients": {
+    "carbohydrates": "50 g",
+    "fat": "15 g",
+    "protein": "20 g"
+  },
+  "bad_for": [
+    "Peanut Allergy",
+    "High Sodium"
+  ],
+  "alternative": "vegetable pad thai",
+  "image_prediction_label": "pad_thai",
+  "category": "main_course",
+  "description": "Thai stir-fried noodles with shrimp, egg, and peanuts; savory but calorie-dense."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd3"
+  },
+  "foodname": "paella",
+  "calories_per_piece": 380,
+  "nutrients": {
+    "carbohydrates": "45 g",
+    "protein": "22 g",
+    "fat": "12 g"
+  },
+  "bad_for": [
+    "Seafood Allergy"
+  ],
+  "alternative": "vegetable paella",
+  "image_prediction_label": "paella",
+  "category": "main_course",
+  "description": "Spanish rice dish with saffron, seafood, and chicken; aromatic and flavorful."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd4"
+  },
+  "foodname": "pancakes",
+  "calories_per_piece": 210,
+  "nutrients": {
+    "carbohydrates": "28 g",
+    "sugar": "8 g",
+    "fat": "9 g"
+  },
+  "bad_for": [
+    "Diabetic Person"
+  ],
+  "alternative": "whole wheat pancakes",
+  "image_prediction_label": "pancakes",
+  "category": "breakfast",
+  "description": "Fluffy breakfast cakes served with syrup; quick energy but high in carbs."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd5"
+  },
+  "foodname": "panna_cotta",
+  "calories_per_piece": 250,
+  "nutrients": {
+    "sugar": "20 g",
+    "fat": "14 g",
+    "cholesterol": "70 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "coconut milk panna cotta",
+  "image_prediction_label": "panna_cotta",
+  "category": "dessert",
+  "description": "Italian creamy dessert made from milk and gelatin; smooth texture but high in fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd6"
+  },
+  "foodname": "peking_duck",
+  "calories_per_piece": 340,
+  "nutrients": {
+    "protein": "26 g",
+    "fat": "20 g",
+    "cholesterol": "95 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "roasted chicken wrap",
+  "image_prediction_label": "peking_duck",
+  "category": "main_course",
+  "description": "Crispy-skinned Chinese roasted duck; flavorful but oily."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd7"
+  },
+  "foodname": "pho",
+  "calories_per_piece": 310,
+  "nutrients": {
+    "carbohydrates": "45 g",
+    "protein": "20 g",
+    "sodium": "800 mg"
+  },
+  "bad_for": [
+    "High Blood Pressure"
+  ],
+  "alternative": "low-sodium pho",
+  "image_prediction_label": "pho",
+  "category": "soup",
+  "description": "Vietnamese noodle soup with herbs and broth; hydrating but often salty."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd8"
+  },
+  "foodname": "pizza",
+  "calories_per_piece": 285,
+  "nutrients": {
+    "carbohydrates": "36 g",
+    "fat": "10 g",
+    "protein": "12 g"
+  },
+  "bad_for": [
+    "Obesity",
+    "High Cholesterol"
+  ],
+  "alternative": "thin crust veggie pizza",
+  "image_prediction_label": "pizza",
+  "category": "main_course",
+  "description": "Cheesy baked dish with tomato sauce and toppings; filling but calorie-rich."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebd9"
+  },
+  "foodname": "pork_chop",
+  "calories_per_piece": 310,
+  "nutrients": {
+    "protein": "28 g",
+    "fat": "20 g",
+    "cholesterol": "95 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "grilled chicken breast",
+  "image_prediction_label": "pork_chop",
+  "category": "main_course",
+  "description": "Grilled or fried pork cutlet; juicy but heavy on cholesterol."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebda"
+  },
+  "foodname": "poutine",
+  "calories_per_piece": 380,
+  "nutrients": {
+    "carbohydrates": "40 g",
+    "fat": "22 g",
+    "sodium": "600 mg"
+  },
+  "bad_for": [
+    "Obesity",
+    "High Blood Pressure"
+  ],
+  "alternative": "baked sweet potato fries",
+  "image_prediction_label": "poutine",
+  "category": "snack",
+  "description": "Canadian dish of fries, gravy, and cheese curds; comforting but high in fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebdb"
+  },
+  "foodname": "prime_rib",
+  "calories_per_piece": 450,
+  "nutrients": {
+    "protein": "30 g",
+    "fat": "35 g",
+    "cholesterol": "120 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "lean steak",
+  "image_prediction_label": "prime_rib",
+  "category": "main_course",
+  "description": "Roasted ribeye beef; rich in protein and flavor but high in fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4b7bc92910dc4350ebdc"
+  },
+  "foodname": "pulled_pork_sandwich",
+  "calories_per_piece": 370,
+  "nutrients": {
+    "carbohydrates": "35 g",
+    "protein": "25 g",
+    "fat": "14 g"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "grilled chicken sandwich",
+  "image_prediction_label": "pulled_pork_sandwich",
+  "category": "main_course",
+  "description": "Tender shredded pork with barbecue sauce; tasty but calorie-heavy."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebdd"
+  },
+  "foodname": "apple_pie",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "carbohydrates": "45 g",
+    "sugar": "25 g",
+    "fat": "14 g"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Obesity"
+  ],
+  "alternative": "whole wheat apple crumble",
+  "image_prediction_label": "apple_pie",
+  "category": "dessert",
+  "description": "Classic baked pie filled with spiced apples and crust; high in sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebde"
+  },
+  "foodname": "baby_back_ribs",
+  "calories_per_piece": 400,
+  "nutrients": {
+    "protein": "25 g",
+    "fat": "30 g",
+    "cholesterol": "90 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled chicken ribs",
+  "image_prediction_label": "baby_back_ribs",
+  "category": "main_course",
+  "description": "Barbecued pork ribs with rich sauce; tasty but high in saturated fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebdf"
+  },
+  "foodname": "baklava",
+  "calories_per_piece": 335,
+  "nutrients": {
+    "carbohydrates": "38 g",
+    "sugar": "27 g",
+    "fat": "18 g"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Obesity"
+  ],
+  "alternative": "honey oats baklava bites",
+  "image_prediction_label": "baklava",
+  "category": "dessert",
+  "description": "Sweet Mediterranean pastry made with layers of filo, nuts, and syrup; energy-dense."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe0"
+  },
+  "foodname": "beignets",
+  "calories_per_piece": 270,
+  "nutrients": {
+    "carbohydrates": "30 g",
+    "sugar": "13 g",
+    "fat": "14 g"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "baked doughnuts",
+  "image_prediction_label": "beignets",
+  "category": "dessert",
+  "description": "French-style deep-fried pastry covered with powdered sugar, high in sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe1"
+  },
+  "foodname": "bibimbap",
+  "calories_per_piece": 490,
+  "nutrients": {
+    "carbohydrates": "70 g",
+    "protein": "18 g",
+    "fat": "14 g"
+  },
+  "bad_for": [
+    "High Sodium",
+    "Heart Disease"
+  ],
+  "alternative": "brown rice bibimbap with less oil",
+  "image_prediction_label": "bibimbap",
+  "category": "main_course",
+  "description": "Korean mixed rice bowl with vegetables, egg, and chili paste; balanced but salty."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe2"
+  },
+  "foodname": "bread_pudding",
+  "calories_per_piece": 300,
+  "nutrients": {
+    "sugar": "22 g",
+    "fat": "12 g",
+    "cholesterol": "85 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "banana oat pudding",
+  "image_prediction_label": "bread_pudding",
+  "category": "dessert",
+  "description": "Warm dessert made from bread, milk, and sugar; comforting but high in calories."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe3"
+  },
+  "foodname": "breakfast_burrito",
+  "calories_per_piece": 450,
+  "nutrients": {
+    "carbohydrates": "40 g",
+    "protein": "22 g",
+    "fat": "20 g"
+  },
+  "bad_for": [
+    "High Cholesterol",
+    "Obesity"
+  ],
+  "alternative": "veggie egg wrap",
+  "image_prediction_label": "breakfast_burrito",
+  "category": "main_course",
+  "description": "Tortilla filled with eggs, cheese, and sausage; high in protein but heavy on fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe4"
+  },
+  "foodname": "bruschetta",
+  "calories_per_piece": 120,
+  "nutrients": {
+    "carbohydrates": "15 g",
+    "fat": "5 g",
+    "fiber": "2 g"
+  },
+  "bad_for": [
+    "Gluten Intolerance"
+  ],
+  "alternative": "gluten-free bruschetta",
+  "image_prediction_label": "bruschetta",
+  "category": "appetizer",
+  "description": "Grilled bread topped with tomatoes, garlic, and olive oil; a light and healthy appetizer."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe5"
+  },
+  "foodname": "caesar_salad",
+  "calories_per_piece": 220,
+  "nutrients": {
+    "protein": "7 g",
+    "fat": "18 g",
+    "cholesterol": "30 mg"
+  },
+  "bad_for": [
+    "High Cholesterol",
+    "Heart Disease"
+  ],
+  "alternative": "light greek salad",
+  "image_prediction_label": "caesar_salad",
+  "category": "salad",
+  "description": "Classic salad with lettuce, croutons, and creamy dressing; rich in flavor but high in fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe6"
+  },
+  "foodname": "cannoli",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "sugar": "20 g",
+    "fat": "18 g",
+    "cholesterol": "60 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "ricotta-free mini cannoli",
+  "image_prediction_label": "cannoli",
+  "category": "dessert",
+  "description": "Italian pastry shell filled with sweetened ricotta; delicious but high in sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe7"
+  },
+  "foodname": "caprese_salad",
+  "calories_per_piece": 180,
+  "nutrients": {
+    "protein": "9 g",
+    "fat": "14 g",
+    "vitamin_c": "10 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance"
+  ],
+  "alternative": "tofu tomato salad",
+  "image_prediction_label": "caprese_salad",
+  "category": "salad",
+  "description": "Italian salad with mozzarella, tomato, and basil; rich in calcium and antioxidants."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe8"
+  },
+  "foodname": "carrot_cake",
+  "calories_per_piece": 330,
+  "nutrients": {
+    "sugar": "20 g",
+    "fat": "15 g",
+    "cholesterol": "75 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "whole wheat carrot muffin",
+  "image_prediction_label": "carrot_cake",
+  "category": "dessert",
+  "description": "Moist cake with carrots and cream cheese frosting; high in sugar but rich in vitamin A."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebe9"
+  },
+  "foodname": "ceviche",
+  "calories_per_piece": 190,
+  "nutrients": {
+    "protein": "20 g",
+    "fat": "6 g",
+    "vitamin_c": "25 mg"
+  },
+  "bad_for": [
+    "Pregnant Women",
+    "Seafood Allergy"
+  ],
+  "alternative": "cooked shrimp salad",
+  "image_prediction_label": "ceviche",
+  "category": "seafood",
+  "description": "Seafood dish marinated in lime juice; rich in protein but not safe for everyone."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebea"
+  },
+  "foodname": "cheesecake",
+  "calories_per_piece": 410,
+  "nutrients": {
+    "sugar": "26 g",
+    "fat": "28 g",
+    "cholesterol": "95 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance",
+    "Heart Disease"
+  ],
+  "alternative": "yogurt cheesecake",
+  "image_prediction_label": "cheesecake",
+  "category": "dessert",
+  "description": "Creamy dessert with cheese base; delicious but high in sugar and saturated fat."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebeb"
+  },
+  "foodname": "cheese_plate",
+  "calories_per_piece": 500,
+  "nutrients": {
+    "protein": "25 g",
+    "fat": "40 g",
+    "cholesterol": "110 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance",
+    "High Cholesterol"
+  ],
+  "alternative": "low-fat cheese platter",
+  "image_prediction_label": "cheese_plate",
+  "category": "snack",
+  "description": "Assorted cheeses with crackers and fruits; high in calcium but fatty."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebec"
+  },
+  "foodname": "chicken_curry",
+  "calories_per_piece": 280,
+  "nutrients": {
+    "protein": "20 g",
+    "fat": "15 g",
+    "carbohydrates": "10 g"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "grilled chicken masala",
+  "image_prediction_label": "chicken_curry",
+  "category": "main_course",
+  "description": "Spicy chicken curry cooked in Indian spices; protein-rich but oily."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebed"
+  },
+  "foodname": "chicken_quesadilla",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "protein": "22 g",
+    "fat": "18 g",
+    "carbohydrates": "25 g"
+  },
+  "bad_for": [
+    "Obesity",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled veggie quesadilla",
+  "image_prediction_label": "chicken_quesadilla",
+  "category": "main_course",
+  "description": "Tortilla stuffed with cheese and chicken; tasty but calorie-dense."
+},
+{
+  "_id": {
+    "$oid": "68ff4babc92910dc4350ebee"
+  },
+  "foodname": "chicken_wings",
+  "calories_per_piece": 290,
+  "nutrients": {
+    "protein": "17 g",
+    "fat": "19 g",
+    "cholesterol": "90 mg"
+  },
+  "bad_for": [
+    "Heart Disease"
+  ],
+  "alternative": "baked chicken wings",
+  "image_prediction_label": "chicken_wings",
+  "category": "snack",
+  "description": "Crispy fried wings; high in protein but also high in fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebef"
+  },
+  "foodname": "beignets",
+  "calories_per_piece": 270,
+  "nutrients": {
+    "carbohydrates": "30 g",
+    "sugar": "13 g",
+    "fat": "14 g"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "baked doughnuts",
+  "image_prediction_label": "beignets",
+  "category": "dessert",
+  "description": "French-style deep-fried pastry covered with powdered sugar, high in sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf0"
+  },
+  "foodname": "bibimbap",
+  "calories_per_piece": 490,
+  "nutrients": {
+    "carbohydrates": "70 g",
+    "protein": "18 g",
+    "fat": "14 g"
+  },
+  "bad_for": [
+    "High Sodium",
+    "Heart Disease"
+  ],
+  "alternative": "brown rice bibimbap with less oil",
+  "image_prediction_label": "bibimbap",
+  "category": "main_course",
+  "description": "Korean mixed rice bowl with vegetables, egg, and chili paste, providing balanced nutrition."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf1"
+  },
+  "foodname": "bread_pudding",
+  "calories_per_piece": 300,
+  "nutrients": {
+    "sugar": "22 g",
+    "fat": "12 g",
+    "cholesterol": "85 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "banana oat pudding",
+  "image_prediction_label": "bread_pudding",
+  "category": "dessert",
+  "description": "Warm dessert made from stale bread, milk, and sugar; comfort food but high in calories."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf2"
+  },
+  "foodname": "breakfast_burrito",
+  "calories_per_piece": 450,
+  "nutrients": {
+    "carbohydrates": "40 g",
+    "protein": "22 g",
+    "fat": "20 g"
+  },
+  "bad_for": [
+    "High Cholesterol",
+    "Obesity"
+  ],
+  "alternative": "veggie egg wrap",
+  "image_prediction_label": "breakfast_burrito",
+  "category": "main_course",
+  "description": "Tortilla filled with eggs, cheese, and sausage; high in protein but heavy on fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf3"
+  },
+  "foodname": "bruschetta",
+  "calories_per_piece": 120,
+  "nutrients": {
+    "carbohydrates": "15 g",
+    "fat": "5 g",
+    "fiber": "2 g"
+  },
+  "bad_for": [
+    "Gluten Intolerance"
+  ],
+  "alternative": "gluten-free bruschetta",
+  "image_prediction_label": "bruschetta",
+  "category": "appetizer",
+  "description": "Grilled bread topped with tomatoes, garlic, and olive oil; a light and healthy appetizer."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf4"
+  },
+  "foodname": "caesar_salad",
+  "calories_per_piece": 220,
+  "nutrients": {
+    "protein": "7 g",
+    "fat": "18 g",
+    "cholesterol": "30 mg"
+  },
+  "bad_for": [
+    "High Cholesterol",
+    "Heart Disease"
+  ],
+  "alternative": "light greek salad",
+  "image_prediction_label": "caesar_salad",
+  "category": "salad",
+  "description": "Classic salad with lettuce, croutons, and creamy dressing; rich in flavor but high in fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf5"
+  },
+  "foodname": "cannoli",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "sugar": "20 g",
+    "fat": "18 g",
+    "cholesterol": "60 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "ricotta-free mini cannoli",
+  "image_prediction_label": "cannoli",
+  "category": "dessert",
+  "description": "Italian pastry shell filled with sweetened ricotta; delicious but high in sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf6"
+  },
+  "foodname": "caprese_salad",
+  "calories_per_piece": 180,
+  "nutrients": {
+    "protein": "9 g",
+    "fat": "14 g",
+    "vitamin_c": "10 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance"
+  ],
+  "alternative": "tofu tomato salad",
+  "image_prediction_label": "caprese_salad",
+  "category": "salad",
+  "description": "Fresh Italian salad with mozzarella, tomato, and basil; rich in calcium and antioxidants."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf7"
+  },
+  "foodname": "carrot_cake",
+  "calories_per_piece": 330,
+  "nutrients": {
+    "sugar": "20 g",
+    "fat": "15 g",
+    "cholesterol": "75 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "whole wheat carrot muffin",
+  "image_prediction_label": "carrot_cake",
+  "category": "dessert",
+  "description": "Moist cake with carrots and cream cheese frosting; high in sugar but provides vitamin A."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf8"
+  },
+  "foodname": "ceviche",
+  "calories_per_piece": 190,
+  "nutrients": {
+    "protein": "20 g",
+    "fat": "6 g",
+    "vitamin_c": "25 mg"
+  },
+  "bad_for": [
+    "Pregnant Women",
+    "Seafood Allergy"
+  ],
+  "alternative": "cooked shrimp salad",
+  "image_prediction_label": "ceviche",
+  "category": "seafood",
+  "description": "Seafood dish marinated in lime juice, rich in protein but not suitable for raw-food-sensitive people."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebf9"
+  },
+  "foodname": "cheesecake",
+  "calories_per_piece": 410,
+  "nutrients": {
+    "sugar": "26 g",
+    "fat": "28 g",
+    "cholesterol": "95 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance",
+    "Heart Disease"
+  ],
+  "alternative": "yogurt cheesecake",
+  "image_prediction_label": "cheesecake",
+  "category": "dessert",
+  "description": "Creamy dessert with cream cheese base; delicious but high in sugar and saturated fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebfa"
+  },
+  "foodname": "cheese_plate",
+  "calories_per_piece": 500,
+  "nutrients": {
+    "protein": "25 g",
+    "fat": "40 g",
+    "cholesterol": "110 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance",
+    "High Cholesterol"
+  ],
+  "alternative": "low-fat cheese platter",
+  "image_prediction_label": "cheese_plate",
+  "category": "snack",
+  "description": "Assorted cheeses often served with crackers and fruits; high in fat and calcium."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebfb"
+  },
+  "foodname": "chicken_curry",
+  "calories_per_piece": 280,
+  "nutrients": {
+    "protein": "20 g",
+    "fat": "15 g",
+    "carbohydrates": "10 g"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "grilled chicken masala",
+  "image_prediction_label": "chicken_curry",
+  "category": "main_course",
+  "description": "Spicy chicken cooked in aromatic curry; good source of protein but can be oily."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebfc"
+  },
+  "foodname": "chicken_quesadilla",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "protein": "22 g",
+    "fat": "18 g",
+    "carbohydrates": "25 g"
+  },
+  "bad_for": [
+    "Obesity",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled veggie quesadilla",
+  "image_prediction_label": "chicken_quesadilla",
+  "category": "main_course",
+  "description": "Mexican tortilla stuffed with cheese and chicken; high in protein but calorie-dense."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebfd"
+  },
+  "foodname": "chicken_wings",
+  "calories_per_piece": 290,
+  "nutrients": {
+    "protein": "17 g",
+    "fat": "19 g",
+    "cholesterol": "90 mg"
+  },
+  "bad_for": [
+    "High Cholesterol",
+    "Heart Disease"
+  ],
+  "alternative": "baked chicken wings",
+  "image_prediction_label": "chicken_wings",
+  "category": "snack",
+  "description": "Crispy fried chicken wings; tasty but high in fat and sodium."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebfe"
+  },
+  "foodname": "chocolate_cake",
+  "calories_per_piece": 350,
+  "nutrients": {
+    "sugar": "24 g",
+    "fat": "16 g",
+    "cholesterol": "80 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "dark chocolate oat cake",
+  "image_prediction_label": "chocolate_cake",
+  "category": "dessert",
+  "description": "Rich chocolate layer cake; comforting but loaded with sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ebff"
+  },
+  "foodname": "chocolate_mousse",
+  "calories_per_piece": 340,
+  "nutrients": {
+    "sugar": "27 g",
+    "fat": "22 g",
+    "cholesterol": "85 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "avocado chocolate mousse",
+  "image_prediction_label": "chocolate_mousse",
+  "category": "dessert",
+  "description": "Smooth and airy chocolate dessert; creamy but high in sugar and saturated fat."
+},
+{
+  "_id": {
+    "$oid": "68ff513ac92910dc4350ec00"
+  },
+  "foodname": "churros",
+  "calories_per_piece": 280,
+  "nutrients": {
+    "carbohydrates": "35 g",
+    "sugar": "12 g",
+    "fat": "14 g"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "baked churros",
+  "image_prediction_label": "churros",
+  "category": "dessert",
+  "description": "Crispy fried dough pastry rolled in cinnamon sugar; high in carbs and oil."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec01"
+  },
+  "foodname": "chicken_wings",
+  "calories_per_piece": 430,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "27 g",
+    "cholesterol": "95 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "air-fried chicken wings",
+  "image_prediction_label": "chicken_wings",
+  "category": "non-vegetarian",
+  "description": "Crispy fried chicken wings, high in fat and cholesterol."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec02"
+  },
+  "foodname": "chocolate_cake",
+  "calories_per_piece": 356,
+  "nutrients": {
+    "sugar": "28 g",
+    "total_fat": "15 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "dark chocolate oat cake",
+  "image_prediction_label": "chocolate_cake",
+  "category": "dessert",
+  "description": "Rich and moist chocolate cake with high sugar content."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec03"
+  },
+  "foodname": "chocolate_mousse",
+  "calories_per_piece": 290,
+  "nutrients": {
+    "sugar": "25 g",
+    "total_fat": "18 g",
+    "cholesterol": "100 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "avocado cocoa mousse",
+  "image_prediction_label": "chocolate_mousse",
+  "category": "dessert",
+  "description": "Creamy chocolate dessert rich in sugar and fat."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec04"
+  },
+  "foodname": "churros",
+  "calories_per_piece": 280,
+  "nutrients": {
+    "sugar": "12 g",
+    "total_fat": "15 g",
+    "cholesterol": "35 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Obesity"
+  ],
+  "alternative": "baked cinnamon sticks",
+  "image_prediction_label": "churros",
+  "category": "dessert",
+  "description": "Deep-fried dough pastry coated with sugar and cinnamon."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec05"
+  },
+  "foodname": "clam_chowder",
+  "calories_per_piece": 240,
+  "nutrients": {
+    "sugar": "4 g",
+    "total_fat": "10 g",
+    "cholesterol": "60 mg"
+  },
+  "bad_for": [
+    "Lactose Intolerance",
+    "High Sodium Diet"
+  ],
+  "alternative": "corn and vegetable soup",
+  "image_prediction_label": "clam_chowder",
+  "category": "soup",
+  "description": "Cream-based clam soup, rich in sodium and dairy."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec06"
+  },
+  "foodname": "club_sandwich",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "sugar": "5 g",
+    "total_fat": "14 g",
+    "cholesterol": "65 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "whole wheat veggie sandwich",
+  "image_prediction_label": "club_sandwich",
+  "category": "snack",
+  "description": "Layered sandwich with meat, cheese, and mayonnaise."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec07"
+  },
+  "foodname": "crab_cakes",
+  "calories_per_piece": 290,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "20 g",
+    "cholesterol": "85 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "baked crab patties",
+  "image_prediction_label": "crab_cakes",
+  "category": "seafood",
+  "description": "Fried crab patties rich in fats and cholesterol."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec08"
+  },
+  "foodname": "creme_brulee",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "sugar": "30 g",
+    "total_fat": "18 g",
+    "cholesterol": "110 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Lactose Intolerance"
+  ],
+  "alternative": "vanilla chia pudding",
+  "image_prediction_label": "creme_brulee",
+  "category": "dessert",
+  "description": "Custard dessert with caramelized sugar topping."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec09"
+  },
+  "foodname": "croque_madame",
+  "calories_per_piece": 410,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "26 g",
+    "cholesterol": "155 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "grilled cheese with poached egg",
+  "image_prediction_label": "croque_madame",
+  "category": "snack",
+  "description": "French sandwich with ham, cheese, and fried egg."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec0a"
+  },
+  "foodname": "cup_cakes",
+  "calories_per_piece": 305,
+  "nutrients": {
+    "sugar": "26 g",
+    "total_fat": "15 g",
+    "cholesterol": "45 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Obesity"
+  ],
+  "alternative": "oat banana muffin",
+  "image_prediction_label": "cup_cakes",
+  "category": "dessert",
+  "description": "Small frosted cake high in sugar and refined flour."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec0b"
+  },
+  "foodname": "deviled_eggs",
+  "calories_per_piece": 155,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "13 g",
+    "cholesterol": "187 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "avocado stuffed eggs",
+  "image_prediction_label": "deviled_eggs",
+  "category": "snack",
+  "description": "Boiled eggs stuffed with creamy yolk and mayonnaise."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec0c"
+  },
+  "foodname": "donuts",
+  "calories_per_piece": 320,
+  "nutrients": {
+    "sugar": "19 g",
+    "total_fat": "17 g",
+    "cholesterol": "35 mg"
+  },
+  "bad_for": [
+    "Diabetic Person",
+    "Heart Disease"
+  ],
+  "alternative": "baked donuts with honey glaze",
+  "image_prediction_label": "donuts",
+  "category": "dessert",
+  "description": "Fried sweet dough rings glazed with sugar."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec0d"
+  },
+  "foodname": "dumplings",
+  "calories_per_piece": 220,
+  "nutrients": {
+    "sugar": "3 g",
+    "total_fat": "9 g",
+    "cholesterol": "45 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "steamed veggie dumplings",
+  "image_prediction_label": "dumplings",
+  "category": "snack",
+  "description": "Stuffed dough pockets steamed or fried."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec0e"
+  },
+  "foodname": "edamame",
+  "calories_per_piece": 120,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "5 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [],
+  "alternative": "roasted chickpeas",
+  "image_prediction_label": "edamame",
+  "category": "vegetarian",
+  "description": "Steamed green soybeans rich in protein and fiber."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec0f"
+  },
+  "foodname": "eggs_benedict",
+  "calories_per_piece": 390,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "31 g",
+    "cholesterol": "295 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "poached egg avocado toast",
+  "image_prediction_label": "eggs_benedict",
+  "category": "breakfast",
+  "description": "English muffin with ham, poached eggs, and hollandaise sauce."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec10"
+  },
+  "foodname": "escargots",
+  "calories_per_piece": 220,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "15 g",
+    "cholesterol": "55 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "mushroom garlic sauté",
+  "image_prediction_label": "escargots",
+  "category": "non-vegetarian",
+  "description": "French dish of snails cooked with butter and garlic."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec11"
+  },
+  "foodname": "falafel",
+  "calories_per_piece": 270,
+  "nutrients": {
+    "sugar": "2 g",
+    "total_fat": "17 g",
+    "cholesterol": "0 mg"
+  },
+  "bad_for": [
+    "High Fat Diet"
+  ],
+  "alternative": "baked chickpea balls",
+  "image_prediction_label": "falafel",
+  "category": "vegetarian",
+  "description": "Deep-fried chickpea balls with herbs and spices."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec12"
+  },
+  "foodname": "filet_mignon",
+  "calories_per_piece": 250,
+  "nutrients": {
+    "sugar": "0 g",
+    "total_fat": "10 g",
+    "cholesterol": "70 mg"
+  },
+  "bad_for": [
+    "High Cholesterol"
+  ],
+  "alternative": "grilled chicken steak",
+  "image_prediction_label": "filet_mignon",
+  "category": "non-vegetarian",
+  "description": "Tender beef steak cut from the smaller end of the tenderloin."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec13"
+  },
+  "foodname": "fish_and_chips",
+  "calories_per_piece": 600,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "35 g",
+    "cholesterol": "95 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "Obesity"
+  ],
+  "alternative": "baked fish with sweet potato fries",
+  "image_prediction_label": "fish_and_chips",
+  "category": "seafood",
+  "description": "Battered fried fish served with deep-fried potato chips."
+},
+{
+  "_id": {
+    "$oid": "68ff5190c92910dc4350ec14"
+  },
+  "foodname": "foie_gras",
+  "calories_per_piece": 445,
+  "nutrients": {
+    "sugar": "1 g",
+    "total_fat": "43 g",
+    "cholesterol": "255 mg"
+  },
+  "bad_for": [
+    "Heart Disease",
+    "High Cholesterol"
+  ],
+  "alternative": "mushroom pâté",
+  "image_prediction_label": "foie_gras",
+  "category": "non-vegetarian",
+  "description": "Rich duck or goose liver delicacy high in fat and cholesterol."
+}]

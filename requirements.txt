@@ -3,5 +3,7 @@ numpy
 tensorflow
 pillow
 sentence-transformers
-scikit-learn
+torch
+torchvision
 speechrecognition
+pyaudio

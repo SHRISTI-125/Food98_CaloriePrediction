@@ -1,0 +1,7 @@
+streamlit
+numpy
+tensorflow
+pillow
+sentence-transformers
+scikit-learn
+speechrecognition
